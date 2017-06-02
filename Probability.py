@@ -1,4 +1,7 @@
-#DiceProbablity.py
+# Diego Magdaleno
+# dmmagdal
+# Probability.py Programming Assignment 6
+# rolls N number of dice of M sides to get stastics of their sum
 
 import random
 
