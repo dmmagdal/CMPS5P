@@ -12,6 +12,7 @@ def getSearchPage(url):
 #main------------------------------
 company = input("Enter the docket of the company you'd like to search: ")
 searchPage = getSearchPage("https://www.sec.gov/edgar/searchedgar/companysearch.html")
-f = open("Search", "w")
-f.write(searchPage)
-f.close();
+print(searchPage)
+#f = open("Search", "w")
+#f.write(searchPage)
+#f.close();
